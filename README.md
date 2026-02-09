@@ -40,6 +40,7 @@
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=CurseForge%20Downloads&query=%24.curseforgeHuman&url=https%3A%2F%2Fliopyu-stats.subliminalwizdom.workers.dev%2F&labelColor=2f2f2f&color=ff7a00" alt="CurseForge Downloads">
   </a>
 </span>
+<br>
 
 <span style="display:inline-flex; align-items:center; gap:6px; margin-left:10px;">
   <img src="icons/modrinth.png" width="25" height="25">
