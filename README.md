@@ -32,7 +32,7 @@
   </a>
 </span>
 
-<br>
+
 
 <span style="display:inline-flex; align-items:center; gap:6px;">
   <img src="icons/curseforge.png" width="25" height="25">
@@ -48,7 +48,22 @@
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Modrinth%20Downloads&query=%24.modrinthHuman&url=https%3A%2F%2Fliopyu-stats.subliminalwizdom.workers.dev%2F&labelColor=2f2f2f&color=00c87a" alt="Modrinth Downloads">
   </a>
 </span>
+
 <br>
 
+<span style="display:inline-flex; align-items:center; gap:6px;">
+  <img src="icons/discord.png" width="35" height="35" style="position: relative; top: -2px;">
 
+  <a href="https://discord.com/invite/sPHes7q4Pr">
+    <img
+      src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=MEMBERS&query=%24.discordMembersHuman&url=https%3A%2F%2Fliopyu-stats.subliminalwizdom.workers.dev%2F&labelColor=2f2f2f&color=5865F2&cacheSeconds=60&v=2"
+      alt="Discord Members">
+  </a>
+
+  <a href="https://discord.com/invite/sPHes7q4Pr">
+    <img
+      src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=ONLINE&query=%24.discordOnlineHuman&url=https%3A%2F%2Fliopyu-stats.subliminalwizdom.workers.dev%2F&labelColor=2f2f2f&color=57F287&cacheSeconds=60&v=2"
+      alt="Discord Online">
+  </a>
+</span>
 </div>
