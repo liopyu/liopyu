@@ -1,22 +1,22 @@
 <div align="center">
 
 <span style="display:inline-flex; align-items:center; gap:4px;">
-  <img src="icons/minecraft.png" width="25" height="25" style="position: relative; middle: 2px;">
+  <img src="icons/minecraft.png" width="25" height="25" style="position: relative; bottom: 2px;">
   <b>Minecraft</b>
 </span>
-<span style="position: relative; top: -8px; font-size: 20px;">•</span>
+<img src="icons/dot.png" width="20" height="20" style="position: relative; top: -4px; margin: 0 6px;">
 <span style="display:inline-flex; align-items:center; gap:6px; margin-left:6px;">
-  <img src="icons/hytale.png" width="25" height="25" style="position: relative; middle: 2px;">
+  <img src="icons/hytale.png" width="25" height="25" style="position: relative; bottom: 2px;">
   <b>Hytale</b>
 </span>
-<span style="position: relative; top: -8px; font-size: 20px;">•</span>
+<img src="icons/dot.png" width="20" height="20" style="position: relative; top: -4px; margin: 0 6px;">
 <span style="display:inline-flex; align-items:center; gap:6px; margin-left:6px;">
-  <img src="icons/kotlinscript.png" width="30" height="30" style="position: relative; middle: 2px;">
+  <img src="icons/kotlinscript.png" width="30" height="30" style="position: relative; bottom: 2px;">
   <b>KotlinScript</b>
 </span>
-<span style="position: relative; top: -8px; font-size: 20px;">•</span>
+<img src="icons/dot.png" width="20" height="20" style="position: relative; top: -4px; margin: 0 6px;">
 <span style="display:inline-flex; align-items:center; gap:6px; margin-left:6px;">
-  <img src="icons/runescape.png" width="30" height="30" style="position: relative; middle: 2px;">
+  <img src="icons/runescape.png" width="30" height="30" style="position: relative; bottom: 2px;">
   <b>Runescape</b>
 </span>
 
@@ -49,6 +49,7 @@
   </a>
 </span>
 <br>
+
 <span style="display:inline-flex; align-items:center; margin-left:10px;">
   <a href="https://kubejsserverscripts.org/">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Downloads&query=%24.totalHuman&url=https%3A%2F%2Fliopyu-stats.subliminalwizdom.workers.dev%2F&labelColor=2f2f2f&color=7f52ff" alt="Total Downloads">
