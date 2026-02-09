@@ -23,7 +23,7 @@
 <br><br>
 
 <span style="display:inline-flex; align-items:center; gap:6px;">
-  <img src="icons/youtube.png" width="35" height="35">
+  <img src="icons/youtube.png" width="35" height="35" style="position: relative; top: -2px; margin: 0 0px;">
   <a href="https://www.youtube.com/@liopyu">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCJnyYEZtRG8gvBgHFKCKI7Q?style=for-the-badge" alt="Subscribers">
   </a>
