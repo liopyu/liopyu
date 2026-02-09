@@ -1,25 +1,24 @@
 <div align="center">
 
 <span style="display:inline-flex; align-items:center; gap:4px;">
-  <img src="icons/minecraft.png" width="25" height="25" style="position: relative; top: 1px;">
+  <img src="icons/minecraft.png" width="25" height="25" style="position: relative; top: 2px;">
   <b>Minecraft</b>
 </span>
-<span style="position: relative; top: -2px;">•</span>
+<span style="position: relative; top: -6px; font-size: 20px;">•</span>
 <span style="display:inline-flex; align-items:center; gap:6px; margin-left:6px;">
-  <img src="icons/hytale.png" width="25" height="25" style="position: relative; top: 1px;">
+  <img src="icons/hytale.png" width="25" height="25" style="position: relative; top: 2px;">
   <b>Hytale</b>
 </span>
-<span style="position: relative; top: -2px;">•</span>
+<span style="position: relative; top: -6px; font-size: 20px;">•</span>
 <span style="display:inline-flex; align-items:center; gap:6px; margin-left:6px;">
-  <img src="icons/kotlinscript.png" width="30" height="30" style="position: relative; top: 1px;">
+  <img src="icons/kotlinscript.png" width="30" height="30" style="position: relative; top: 2px;">
   <b>KotlinScript</b>
 </span>
-<span style="position: relative; top: -2px;">•</span>
+<span style="position: relative; top: -6px; font-size: 20px;">•</span>
 <span style="display:inline-flex; align-items:center; gap:6px; margin-left:6px;">
-  <img src="icons/runescape.png" width="30" height="30" style="position: relative; top: 1px;">
+  <img src="icons/runescape.png" width="30" height="30" style="position: relative; top: 2px;">
   <b>Runescape</b>
 </span>
-
 
 <br><br>
 
