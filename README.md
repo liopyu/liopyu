@@ -39,7 +39,7 @@
 <span style="display:inline-flex; align-items:center; gap:6px;">
   <img src="https://i.ibb.co/z0hZ1gp/curseforge.png" width="25" height="25">
   <a href="https://www.curseforge.com/members/liopyu/projects">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=CurseForge%20Downloads&query=%24.curseforgeHuman&url=https%3A%2F%2Fliopyu-stats.subliminalwizdom.workers.dev%2F&labelColor=2f2f2f&color=ff7a00" alt="CurseForge Downloads">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=CurseForge&query=%24.curseforgeHuman&url=https%3A%2F%2Fliopyu-stats.subliminalwizdom.workers.dev%2F&labelColor=2f2f2f&color=ff7a00" alt="CurseForge">
   </a>
 </span>
 
@@ -48,7 +48,7 @@
 <span style="display:inline-flex; align-items:center; gap:6px; margin-left:10px;">
   <img src="https://i.ibb.co/XZXPFkFD/modrinth.png" width="25" height="25">
   <a href="https://modrinth.com/user/Liopyu">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Modrinth%20Downloads&query=%24.modrinthHuman&url=https%3A%2F%2Fliopyu-stats.subliminalwizdom.workers.dev%2F&labelColor=2f2f2f&color=00c87a" alt="Modrinth Downloads">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Modrinth&query=%24.modrinthHuman&url=https%3A%2F%2Fliopyu-stats.subliminalwizdom.workers.dev%2F&labelColor=2f2f2f&color=00c87a" alt="Modrinth">
   </a>
 </span>
 
